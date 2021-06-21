@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Neel Shah AKA Deadpanther. I have pursued my B.Tech in I.T from K.J. Somaiya College of Engineering, Mumbai, India. I am an incoming MS in COmputer Science student @NYU.
+I'm Neel Shah AKA Deadpanther. I have pursued my B.Tech in I.T from K.J. Somaiya College of Engineering, Mumbai, India. I am an incoming MS in Computer Science student @NYU.
 
 - 🔭 I’m currently working on AI/ML projects.
 - 🌱 I’m currently learning DLCV.
