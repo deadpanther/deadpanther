@@ -1,7 +1,7 @@
 Hi there 👋
-I'm Neel Shah AKA Deadpanther. I have pursued my B.Tech in I.T from K.J. Somaiya College of Engineering, Mumbai, India. I am a current MS in Computer Science student at NYU.
+I'm Neel Shah AKA Deadpanther. I am currently pursuing Master's in Computer Science from New York University. 
 
-- 🔭 I’m currently working on AI/ML projects.
-- 🌱 I’m currently learning DLCV.
-- 👯 I’m looking to collaborate on Web/Mobile Dev or any other ML/DL Projects.
+- 🔭 I’m currently working on Cloud technologies.
+- 🌱 I’m currently learning Kafka.
+- 👯 I’m looking to collaborate on Cloud Projects and Machine Learning Projects.
 - 📫 How to reach me: LinkedIn => https://www.linkedin.com/in/neel19/
